@@ -1,4 +1,4 @@
-### Hi there! I'll be glad to help you with that project!
+### Hi there! I'll be glad to help you out!
 ### 
 ### - 🔭 I’m currently working on my new portfolio web app.
 ### - 🌱 I’m currently learning more of React and MongoDB administration.
